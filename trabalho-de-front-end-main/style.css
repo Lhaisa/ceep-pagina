@@ -1,0 +1,43 @@
+@import url();
+body{
+   font-family: Arial, Helvetica, sans-serif;
+   margin: 0;
+   padding-top: 60px;
+   box-sizing: border-box;
+
+}
+
+.conteiner{
+    max-width: 960px;
+    margin: 20px  auto;
+    background-color: #e196ff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px;
+    position: relative;
+}
+header{
+    text-align: center;
+    padding-bottom: 20xp;
+    border-bottom: #b700ff6b;
+    border-left: #ff96ed;
+    border-top: #ff5c9a;
+    border-right: #ff96ed;
+}
+
+main{
+    padding: 20px;
+
+}
+footer{
+    text-align: center;
+    padding-top: 20px;
+    border-top: #ff5c9a;
+    color: #fc0000;
+}
+.menuflutuante {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    
+}
